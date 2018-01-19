@@ -1,0 +1,5 @@
+﻿v0.1
+-Simply counts the taps when we touch or click the Tap button
+
+v0.2
+-Counts how many taps can be made in 30 seconds.
